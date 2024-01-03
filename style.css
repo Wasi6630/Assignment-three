@@ -407,8 +407,13 @@ samp i{
         margin-left: 80px;
         margin-bottom: 0px;
     }
+    .card{
+        padding:0px 20px;
+    }
     .card-one{
         margin-top: 20px;
+        width: 100%;
+        height: 100%;
     }
     samp{
         margin-right: 80px;
@@ -456,6 +461,7 @@ samp i{
 /* extra section start */
     .all-extra{
         flex-direction: column;
+        padding: 0px 30px;
     }
     .extra-two{
         margin-top: 50px;
